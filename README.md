@@ -1,3 +1,4 @@
-# my github dite
+# 我的測試用Repo
 
-靜態網站測試
+*靜態網站測試
+*測試修改 Readme，然後上傳
